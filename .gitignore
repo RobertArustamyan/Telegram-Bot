@@ -1,2 +1,6 @@
-# created by virtualenv automatically
-
+example.xlsx
+Lib/
+Scripts/
+input
+identifier.sqlite
+core/bases/
